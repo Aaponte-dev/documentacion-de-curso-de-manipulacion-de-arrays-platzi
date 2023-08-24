@@ -7,3 +7,7 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 * Descubre los fundamentos del manejo de arrays en JavaScript
 
 > Instructor: **Nicolas Molina**
+
+## Temario
+
+### [1.- Tu AS bajo la manga](./lecciones/1.-Tu-as-bajo-la-manga.md)
