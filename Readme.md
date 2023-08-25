@@ -23,3 +23,5 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 ### [6.- Map Reloaded](./lecciones/6.-Map-reloaded.md)
 
 ### 7.- Playground: calcula y agrega nuevas propiedades a un array
+
+### [8.- Filter](./lecciones/8.-Filter.md)
