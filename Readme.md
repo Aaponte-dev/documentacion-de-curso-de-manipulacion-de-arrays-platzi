@@ -21,3 +21,5 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 ### 5.- Playground: multiplica todos los elementos por dos
 
 ### [6.- Map Reloaded](./lecciones/6.-Map-reloaded.md)
+
+### 7.- Playground: calcula y agrega nuevas propiedades a un array
