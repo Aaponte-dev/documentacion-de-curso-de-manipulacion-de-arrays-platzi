@@ -15,3 +15,5 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 ### [2.- ForEach](./lecciones/2.-Foreach.md)
 
 ### [3.- Mutable o Inmutable](./lecciones/3.-Mutable-o-inmutable.md)
+
+### [4.- Qué es el método map](./lecciones/4.-Que-es-el-metodo-map.md)
