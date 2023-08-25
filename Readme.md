@@ -13,3 +13,5 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 ### [1.- Tu AS bajo la manga](./lecciones/1.-Tu-as-bajo-la-manga.md)
 
 ### [2.- ForEach](./lecciones/2.-Foreach.md)
+
+### [3.- Mutable o Inmutable](./lecciones/3.-Mutable-o-inmutable.md)
