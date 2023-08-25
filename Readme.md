@@ -25,3 +25,5 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 ### 7.- Playground: calcula y agrega nuevas propiedades a un array
 
 ### [8.- Filter](./lecciones/8.-Filter.md)
+
+### 9.- Playground: retorna solo palabras de 4 letras o más
