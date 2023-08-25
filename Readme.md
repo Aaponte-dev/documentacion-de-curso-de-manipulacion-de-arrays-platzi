@@ -17,3 +17,5 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 ### [3.- Mutable o Inmutable](./lecciones/3.-Mutable-o-inmutable.md)
 
 ### [4.- Qué es el método map](./lecciones/4.-Que-es-el-metodo-map.md)
+
+### 5.- Playground: multiplica todos los elementos por dos
