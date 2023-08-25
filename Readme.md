@@ -19,3 +19,5 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 ### [4.- Qué es el método map](./lecciones/4.-Que-es-el-metodo-map.md)
 
 ### 5.- Playground: multiplica todos los elementos por dos
+
+### [6.- Map Reloaded](./lecciones/6.-Map-reloaded.md)
