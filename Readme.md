@@ -37,3 +37,5 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 ### [13.- Some](./lecciones/13.-Some.md)
 
 ### 14.- Playground: ¿al menos 1 de los números es par?
+
+### [15.- Every](./lecciones/15.-Every.md)
