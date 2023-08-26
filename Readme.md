@@ -39,3 +39,5 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 ### 14.- Playground: ¿al menos 1 de los números es par?
 
 ### [15.- Every](./lecciones/15.-Every.md)
+
+### 16.- Playground: retorna un booleano si todos los elementos son pares
