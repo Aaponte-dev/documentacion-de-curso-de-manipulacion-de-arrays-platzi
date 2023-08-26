@@ -35,3 +35,5 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 ### 12.- Playground: calcula la suma total de elementos en un array
 
 ### [13.- Some](./lecciones/13.-Some.md)
+
+### 14.- Playground: ¿al menos 1 de los números es par?
