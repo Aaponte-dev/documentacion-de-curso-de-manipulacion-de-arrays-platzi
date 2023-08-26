@@ -43,3 +43,5 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 ### 16.- Playground: retorna un booleano si todos los elementos son pares
 
 ### [17.- Find y FindIndex](./lecciones/17.-Find-y-findindex.md)
+
+### [18.- Includes](./lecciones/18.-Includes.md)
