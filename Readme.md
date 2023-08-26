@@ -29,3 +29,5 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 ### 9.- Playground: retorna solo palabras de 4 letras o más
 
 ### [10.- Reduce](./lecciones/10.-Reduce.md)
+
+### [11.- Reduce Reloaded](./lecciones/11.-Reduce-reloaded.md)
