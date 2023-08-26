@@ -33,3 +33,5 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 ### [11.- Reduce Reloaded](./lecciones/11.-Reduce-reloaded.md)
 
 ### 12.- Playground: calcula la suma total de elementos en un array
+
+### [13.- Some](./lecciones/13.-Some.md)
