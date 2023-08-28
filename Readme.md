@@ -57,3 +57,5 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 ### [23.- Flat](./lecciones/23.-Flat.md)
 
 ### [24.- FlatMap](./lecciones/24.-Flatmap.md)
+
+### 25.- Playground: calcula el total de palabras en un texto
