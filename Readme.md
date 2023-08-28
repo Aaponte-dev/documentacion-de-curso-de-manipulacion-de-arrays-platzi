@@ -51,3 +51,5 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 ### [20.- Join](./lecciones/20.-Join.md)
 
 ### 21.- Playground: construye URLs a partir de strings
+
+### [22.- Concat](./lecciones//22.-Concat.md)
