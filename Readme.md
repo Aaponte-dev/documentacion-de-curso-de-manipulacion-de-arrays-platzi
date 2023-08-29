@@ -63,3 +63,5 @@ Durante tu carrera como programador, tendrás que usar arrays para crear estruct
 ### [26.- Mutable functions](./lecciones/26.-Mutable-functions.md)
 
 ### [27.- Sort](./lecciones/27.-Sort.md)
+
+### [28.- Despedida](./lecciones/28.-Despedida.md)
